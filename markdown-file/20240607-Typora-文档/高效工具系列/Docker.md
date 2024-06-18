@@ -414,6 +414,20 @@ export https_proxy=http://127.0.0.1:7890
 
 
 
+3、
+
+```
+docker run -it -d --name kuiper \
+-v /home/feng/infer-framwork/kuiperdatawhale:/home/codes/kuiperdatawhale \
+registry.cn-hangzhou.aliyuncs.com/hellofss/kuiperinfer:datawhale
+```
+
+
+
+
+
+
+
 # 疑问解答
 
 ## 1、Flask 是什么，有什么用？
