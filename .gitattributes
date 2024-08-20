@@ -1,2 +1,4 @@
 dataset/eat_pytorch_datasets.zip filter=lfs diff=lfs merge=lfs -text
 Python科研论文配图绘制指南配套资料-20231114.zip filter=lfs diff=lfs merge=lfs -text
+cuda-c-document/CodeSamples.zip filter=lfs diff=lfs merge=lfs -text
+cuda-c-document/Solutions.zip filter=lfs diff=lfs merge=lfs -text
